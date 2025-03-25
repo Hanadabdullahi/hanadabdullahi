@@ -2,7 +2,7 @@
 I'm Hanad Abdullahi, a final-year Uppsala University engineering student who has a deep interest in artificial intelligence and data science. I enjoy creating cutting-edge machine learning solutions and turning complicated datasets into understandable insights.
 
 - 🔭 I’m currently working on my master thesis at Karolinska Institute, where im currently developing a model that predicts age based on single cell transciptomic data. Due to possible patenting it will be a private repo.
-- 🔭 I'm currently collaborating with fellow students to develop a model that forecasts stock prices using historical data.
+- 🔭 I've started collaborating with fellow students to develop a model that forecasts stock prices using historical data.
 
 
 
