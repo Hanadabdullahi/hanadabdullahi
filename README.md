@@ -14,6 +14,5 @@ Among my areas of interest are:
 • Software Development & Research: Developing effective Python solutions, streamlining experimental pipelines, and expanding the capabilities of contemporary artificial intelligence.
 • Global Cooperation & Guidance: I thrive in diverse, team-oriented environments, which I draw from my leadership roles in student organizations and my exchange studies at the Technical University of Munich.
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++**
 
 Thank you for visiting! 
