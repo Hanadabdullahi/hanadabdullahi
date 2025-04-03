@@ -16,3 +16,7 @@ Among my areas of interest are:
 
 
 Thank you for visiting! 
+
+<img src="https://raw.githubusercontent.com/hanadabdullahi/hanadabdullahi/output/snake.svg" alt="Snake animation" />
+
+###
