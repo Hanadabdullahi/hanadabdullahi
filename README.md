@@ -1,7 +1,7 @@
 ## Hi there 👋 
 I'm Hanad Abdullahi, a final-year Uppsala University engineering student who has a deep interest in artificial intelligence and data science. I enjoy creating cutting-edge machine learning solutions and turning complicated datasets into understandable insights.
 
-- 🔭 I have recently finished my master's thesis at Karolinska Institute, where I developed a model that predicts age based on single-cell transcriptomic data. Due to possible patenting, it will be a private repo.
+- 🔭 I have recently finished my master's thesis at Karolinska Institute, where I developed a model that predicts age based on single-cell transcriptomic data. 
 - 🔭 No other projects as of now, send me a email if you have any ideas!
 
 
